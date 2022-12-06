@@ -1,4 +1,3 @@
-
 # Victoria Reshetova
 
 ## Contacts
@@ -9,7 +8,6 @@
 
 ## Skills
 *Basic layout, js at the initial level. I took the course but didn't finish it.*
-## Code examples
 
 ```
 let name1 = +prompt("Введите первое число");
